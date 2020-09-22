@@ -1,0 +1,30 @@
+FeatureName,ProductName 
+Additional Calendar enhancements for Timetable,Product A
+Browser Compatability,Product A
+CI/CD using docker for an APP,Product A
+Explore docker hub for application,Product A
+Fetch required details from Workday,Product A
+Keep Time Syncronized,Product A
+Mobile application for division to get information about skills from workday.,Product A
+New Quarterly Returns Schema v5.0,Product A
+Offence Outcomes Phase 2,Product A
+PWA application to fetch required data from Worday .,Product B
+Payment Entry required for user,Product B
+Application should have a third party integration with workday,Product B
+Send Notification in application on submission of form.,Product A
+Send SMS to user when transaction is complete,Product B
+Transaction Entry required for every user,Product B
+User is facing issues on edge.,Product B
+User needs to get email when status is changed for his proposal,Product A
+user should be able to schedule a Payment,Product A
+Validation required for assessment form,Product A
+Workday integration to get skills for a user,Product A
+Allow Admins to monitor the connectivity status,Product C
+Capture Enrolment Events from clock to link credentials with employees,Product C
+Receive Access Attempts,Product C
+Receive Email when ticket is confirmed,Product C
+Receive Clocking Events,Product C
+Send Access Levels,Product C
+Send all employees in terminal group to clock,Product C
+Send all related Bio Data with credentials,Product C
+Android Kiosk App,Product C
